@@ -164,7 +164,7 @@ ALIASES = {"manunited": "manutd", "manchesterunited": "manutd", "manchestercity"
            "brightonhovealbion": "brighton", "leedsunited": "leeds", "leicestercity": "leicester",
            "norwichcity": "norwich", "nottinghamforest": "nottmforest", "nottmforest": "nottmforest",
            "sheffieldunited": "sheffieldutd", "sheffutd": "sheffieldutd", "westbromwichalbion": "westbrom",
-           "ipswichtown": "ipswich", "lutontown": "luton", "afcbournemouth": "bournemouth"}
+           "ipswichtown": "ipswich", "lutontown": "luton", "afcbournemouth": "bournemouth", "hull": "hullcity"}
 
 
 def norm_team(s):
